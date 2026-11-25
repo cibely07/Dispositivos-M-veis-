@@ -1,0 +1,10 @@
+/workspaces/Dispositivos-M-veis-/stockfarma-core/src/main/java/br/com/stockfarma/app/Main.java
+/workspaces/Dispositivos-M-veis-/stockfarma-core/src/main/java/br/com/stockfarma/exception/EstoqueInsuficienteException.java
+/workspaces/Dispositivos-M-veis-/stockfarma-core/src/main/java/br/com/stockfarma/exception/MedicamentoNaoEncontradoExcepion.java
+/workspaces/Dispositivos-M-veis-/stockfarma-core/src/main/java/br/com/stockfarma/model/Categoria.java
+/workspaces/Dispositivos-M-veis-/stockfarma-core/src/main/java/br/com/stockfarma/model/Medicamento.java
+/workspaces/Dispositivos-M-veis-/stockfarma-core/src/main/java/br/com/stockfarma/model/Movimentacao.java
+/workspaces/Dispositivos-M-veis-/stockfarma-core/src/main/java/br/com/stockfarma/model/TipoMovimentacao.java
+/workspaces/Dispositivos-M-veis-/stockfarma-core/src/main/java/br/com/stockfarma/service/EstoqueService.java
+/workspaces/Dispositivos-M-veis-/stockfarma-core/src/main/java/br/com/stockfarma/service/ImportadorCsv.java
+/workspaces/Dispositivos-M-veis-/stockfarma-core/src/main/java/br/com/stockfarma/service/RelatorioService.java
